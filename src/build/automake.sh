@@ -1,0 +1,3 @@
+SRCDIR=../
+cd ${SRCDIR}
+make
